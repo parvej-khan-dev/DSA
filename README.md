@@ -2,6 +2,8 @@
 
 ## Day 9 : Js Recersion - Sort unsorted Array
 
+## Day 10 : Binery Search - Find The index of target value ;
+
 ## Leetcodé JS DSA Parctice
 
 https://leetcode.com/problems/valid-parentheses/
@@ -107,7 +109,7 @@ https://leetcode.com/problems/4sum/
 https://leetcode.com/problems/majority-element-ii/
 https://leetcode.com/problems/majority-element/
 https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
-https://leetcode.com/problems/binary-search/
+https://leetcode.com/problems/binary-search/ -> Solved check Binery.js Day10
 https://leetcode.com/problems/fibonacci-number/
 https://leetcode.com/problems/missing-number/
 https://leetcode.com/problems/sqrtx/
